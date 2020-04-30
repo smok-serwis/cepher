@@ -104,6 +104,13 @@
             "options": [
                 "rbind"
             ]
+        },{
+            "source": "/etc/ceph",
+            "destination": "/etc/ceph",
+            "type": "bind",
+            "options": [
+                "rbind"
+            ]
         },
         {
             "source": "/dev",
