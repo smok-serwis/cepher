@@ -1,6 +1,6 @@
 {
     "description": "Ceph RBD volume plugin",
-    "documentation": "https://github.com/flaviostutz/cepher",
+    "documentation": "https://github.com/smokserwis/cepher",
     "entrypoint": [
         "/startup.sh"
     ],
